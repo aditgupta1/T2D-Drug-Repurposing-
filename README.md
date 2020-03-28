@@ -13,4 +13,4 @@ Note: This is only publically available code and results. All other code for the
 - NoFreq_Final_drugs_with_side_effects_and_targets-.ipynb: Account for side effects, but no frequency analysis
 - drugs_primary_effect_blood_glucose.ipynb: Look at drugs with primary effect of blood glucose
 
-The above are all drug screenings based on publically-available information. These were further refined to identify three repurposing targets for T2D using privately-collected exome sequence data collected by the Broad Instiute. 
+The above notebooks are all drug screenings based on publically-available information. These were further refined to identify three repurposing targets for T2D using privately-collected exome sequence data collected by the Broad Instiute. 
